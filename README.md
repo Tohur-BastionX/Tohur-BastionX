@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Tohur – welcome to my Bastionx GitHub.
+# 👋 Hello! I'm Tohur – welcome to my Bastionx GitHub Profile.
 
 ### If you're interested in exploring my personal projects and contributions, feel free to check out my [personal account @tohurr](https://github.com/tohurr).
 
